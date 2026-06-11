@@ -1,0 +1,62 @@
+/* Remove default spacing */
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, sans-serif;
+}
+
+/* Page background */
+body{
+    min-height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background:linear-gradient(135deg,#74ebd5,#ACB6E5);
+}
+
+/* Main card */
+.container{
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    width:350px;
+    text-align:center;
+    box-shadow:0 4px 10px rgba(0,0,0,0.2);
+}
+
+/* Heading */
+h1{
+    margin-bottom:20px;
+}
+
+/* Input box */
+input{
+    width:100%;
+    padding:10px;
+    margin-bottom:10px;
+    border:1px solid #cccccc;
+    border-radius:5px;
+}
+
+/* Search button */
+button{
+    width:100%;
+    padding:10px;
+    background:#15ff00;
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+}
+
+/* Hover effect */
+button:hover{
+    background:#b32a00;
+}
+
+/* Weather result */
+#result{
+    margin-top:20px;
+    font-size:18px;
+}
