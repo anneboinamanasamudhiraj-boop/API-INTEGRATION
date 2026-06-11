@@ -21,7 +21,11 @@ Anneboina Manasa
 
 # OUTPUT
 
-<img width="807" height="658" alt="Image" src="https://github.com/user-attachments/assets/30fdc26b-00f9-4c89-909a-39fe94dbe3ea" />
+<img width="423" height="472" alt="Image" src="https://github.com/user-attachments/assets/b2aada28-ac4e-4312-acd5-f1e232130a1c" />
+
+<img width="561" height="638" alt="Image" src="https://github.com/user-attachments/assets/55f541e3-05e5-44c5-b052-3f429fe1fa75" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/60d8350a-5d8a-44b2-80a1-44b425c90238" />
 
 
 
