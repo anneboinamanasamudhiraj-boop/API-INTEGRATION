@@ -1,6 +1,6 @@
-API INTEGRATION
+# API INTEGRATION
 
-COMPANY: CODTECH IT SOLUTIONS
+# COMPANY: CODTECH IT SOLUTIONS
 
 INTERN ID: CTIS9436
 
@@ -8,18 +8,18 @@ DOMAIN: FULL STACK DEVELOPMENT
 
 DURATION: 6 WEEKS
 
-MENTOR: NEELA SANTOSH
+# MENTOR: NEELA SANTOSH
 
 This project fetches real-time weather data from a public API and displays it dynamically on a webpage. Built as part of the CODTECH IT Solutions internship, it showcases frontend API consumption, asynchronous JavaScript operations, and a clean user interface.
-Technologies used :
+# Technologies used :
 **HTML5:** Structuring the webpage elements.
 **CSS3:** Designing a responsive and user-friendly interface.
 **JavaScript:** Handling API requests (`fetch` / `async-await`)
 **Public Weather API key:** Serving live weather updates.
-Author :
+# Author :
 Anneboina Manasa
 
-#OUTPUT
+# OUTPUT
 
 <img width="807" height="658" alt="Image" src="https://github.com/user-attachments/assets/30fdc26b-00f9-4c89-909a-39fe94dbe3ea" />
 
