@@ -27,6 +27,9 @@ Anneboina Manasa
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/60d8350a-5d8a-44b2-80a1-44b425c90238" />
 
+# NOTE
+To run this project, replace YOUR_API_KEY with your own OpenWeatherMap API key.
+
 
 
 
